@@ -3,7 +3,7 @@ MEAN-Stack-CRUD-Operations Tutorial from CodAffection youtube channel, successfu
 
 # to run this project you must install
   nodejs 
-  angular
+  angular (the version i used is 8.3.16)
   mongodb
   express : npm i express --save
   mongoose: npm i mongoose --save
