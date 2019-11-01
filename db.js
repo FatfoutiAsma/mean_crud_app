@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb://admin:DsKPz9v36OHH8bdM@SG-todo-27224.servers.mongodirector.com:27017/admin', (err)=>{
+mongoose.connect('mongodb://<put here your username>:<put here your password>@SG-todo-27224.servers.mongodirector.com:27017/<put here your username>', (err)=>{
   if(!err){
     console.log('MongoDB Connection succeeded');
   }
